@@ -1,0 +1,32 @@
+body {
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+.headerItem {
+    padding-left: 1%;
+    border-bottom: 4px solid #EF695B;
+}
+
+.item {
+    padding: 1%;
+}
+
+.summary {
+    padding: 1%;
+    text-align: justify;
+}
+
+.futureGoals {
+    color: rgb(48, 59, 155);
+}
+
+.brand {
+    font-family: 'Questrial', sans-serif;
+    color: #EF695B !important;
+    font-size: 30px !important;    
+}
+
+.brand:hover {
+    color: aliceblue !important;
+}
